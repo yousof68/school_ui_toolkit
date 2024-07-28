@@ -385,9 +385,6 @@ LabelCard(
 
 ![label card](https://user-images.githubusercontent.com/9513691/88878914-b981ef00-d248-11ea-8a0e-a316b37d8948.gif)
 
-## Support
-
-Like what you see? Support me by buying me a coffee :)
 
 <a href="https://www.buymeacoffee.com/bugthedebugger" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
